@@ -1,0 +1,42 @@
+
+
+
+- done with the prisma installation 
+- need to do authentication - custom or library 
+- will use postgres 
+- need to create schemas and migrate 
+- tables in database - user , user-secrets , 
+- fields - user -- id,password, site_url_bankname, username_site_what_it_is, password_site_mpin_tpin_atmpin_, 
+
+- icon library - https://lordicon.com/?utm_source=influ&utm_medium=social&utm_campaign=code&utm_content=yt_codewithharry
+
+- background - https://bg.ibelick.com
+
+- thinking of implementing search functionality for user secrets
+- maybe can use pagination to show limited secrets in one page
+- 
+
+- need to create a form that accepts the secret and then a save button to save it to the database
+- if its a website password ask for url 
+
+- what if user stores bank secrets - might have fields more than username and password 
+- user can be suggested to use secret nickname such as bank transaction password 
+- 
+
+- for simplicity maybe just create two fields username and secret field 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
