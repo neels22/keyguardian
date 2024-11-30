@@ -6,7 +6,7 @@ export default function Data() {
 
 
     return (
-        <div className="container mx-auto px-5 ml-6">
+        <div className="container mx-auto px-5">
             <h4 className="text-lg font-bold mb-4">Your Secrets</h4>
 
             {/* Titles */}
